@@ -1,0 +1,13 @@
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    margin: 20px;
+    background-color: #1DB954
+}
+
+ol, ul {
+    padding-left: 30px;
+}
+
+.TitleBar {
+    text-align: center;
+}
